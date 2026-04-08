@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Allow: /
+Allow: /sitemap.xml
+
+Sitemap: https://firestonegrill.in/sitemap.xml
+Sitemap: https://www.firestonegrill.in/sitemap.xml
